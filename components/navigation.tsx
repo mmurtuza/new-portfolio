@@ -55,7 +55,7 @@ export function Navigation() {
               alt="murtuza.dev"
               width={140}
               height={40}
-              className="h-8 w-auto"
+              className="h-20 w-auto"
             />
           </Link>
 
