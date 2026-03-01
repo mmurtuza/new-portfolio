@@ -56,6 +56,9 @@ export const metadata: Metadata = {
     images: ['https://murtuza.dev/banner.jpg'],
     creator: '@murtuza_dev',
   },
+  other: {
+    'fb:app_id': '1254934146581526',
+  },
   metadataBase: new URL('https://murtuza.dev'),
   icons: {
     icon: [
