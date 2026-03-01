@@ -42,9 +42,9 @@ export const metadata: Metadata = {
     siteName: 'Md Murtuza Hussain',
     images: [
       {
-        url: '/banner.png',
-        width: 1080,
-        height: 1080,
+        url: 'https://murtuza.dev/banner.jpg',
+        width: 1200,
+        height: 1200,
         alt: 'Md Murtuza Hussain - Senior Software Engineer',
       },
     ],
@@ -53,7 +53,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Md Murtuza Hussain | Senior Software Engineer',
     description: 'Reliable Senior Software Engineer specializing in scalable backend systems with Laravel, PHP, and Golang. Delivering high-performance solutions.',
-    images: ['/banner.png'],
+    images: ['https://murtuza.dev/banner.jpg'],
     creator: '@murtuza_dev',
   },
   metadataBase: new URL('https://murtuza.dev'),
